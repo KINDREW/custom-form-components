@@ -1,0 +1,22 @@
+.container {
+  margin-bottom: 1rem;
+}
+
+.label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.checkboxes {
+  display: flex;
+  flex-direction: column;
+}
+
+.option {
+  margin-bottom: 0.5rem;
+}
+
+.error {
+  color: red;
+  font-size: 0.875rem;
+}
